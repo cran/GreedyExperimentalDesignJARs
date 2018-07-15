@@ -1,0 +1,8 @@
+0306c3effe705603418b15a3205e3750 *DESCRIPTION
+f20179bdcb453f13d824a5f4cf9d125c *NAMESPACE
+a82facbfe1f52791a45adf9f120af2bb *R/onLoad.R
+8ac778f7b9784b36a109119ae384ac82 *inst/COPYRIGHTS
+2c460fecacd61ed078debecfd60b7fee *inst/java/ejml-core-0.34.jar
+f49c9bd232be5468ef62b868beb50ea3 *inst/java/ejml-ddense-0.34.jar
+7ff6eb74a354b2144ce6f9578f4b3a58 *inst/java/ejml-simple-0.34.jar
+ceb2855ad97233e58306cbb324516ecc *java/README
